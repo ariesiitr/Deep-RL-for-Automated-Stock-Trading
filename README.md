@@ -16,14 +16,14 @@ Stable Baselines is a set of improved implementations of Reinforcement Learning 
 
 ![image](https://user-images.githubusercontent.com/81774578/119201254-20a8b280-baac-11eb-8963-ee9868339d9a.png)
 
-![image](https://user-images.githubusercontent.com/81774578/119201580-d411a700-baac-11eb-9497-63d9b81bb842.png)
+![image](https://user-images.githubusercontent.com/81774578/119203250-3f10ad00-bab0-11eb-8534-dc023e814208.png)
 
 ![image](https://user-images.githubusercontent.com/81774578/119201750-205ce700-baad-11eb-99ed-034f60d69eeb.png)
 
 
 # Implementing A2C ALgorithm
 
-![image](https://user-images.githubusercontent.com/81774578/119201956-7fbaf700-baad-11eb-9f7c-f56947dcdf53.png)
+![image](https://user-images.githubusercontent.com/81774578/119203325-649db680-bab0-11eb-8004-c948d560dcc6.png)
 
 On each learning step, we update both the Actor parameter (with policy gradients and advantage value), and the Critic parameter (with minimizing the mean squared error with the Bellman update equation)
 
