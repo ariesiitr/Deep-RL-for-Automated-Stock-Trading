@@ -30,3 +30,18 @@ On each learning step, we update both the Actor parameter (with policy gradients
 
 ## Data
 You can download Historical Financial data from www.Marketwatch.com for training. We have used data of Apple and DogeCoin for Training.
+
+## Training
+![image](https://user-images.githubusercontent.com/55630860/119236632-28249600-bb56-11eb-8af7-0bf4939bbe29.png)
+
+We used data of Apple Stocks for a period of one year.
+
+Here, 
+    Red indicates Short SELL,
+    Green indicates Short BUY.
+    
+ 
+ ##  Evaluation
+![image](https://user-images.githubusercontent.com/55630860/119236661-51452680-bb56-11eb-9b1f-3364e94f8dcb.png)
+
+The Model predicted the **Stock Prices** for next 50 days.
